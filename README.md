@@ -129,8 +129,6 @@ This project was also published as an Ansible Role on **Ansible Galaxy**, making
 
 **Neha Pawar**
 
- GitHub: `github.com/Iamnehapawar>'
-
 ---
 
 
