@@ -6,10 +6,6 @@ This project demonstrates **automation of Apache HTTPD web server using Ansible*
 
 The playbook installs, starts, enables the HTTPD service and deploys a sample `index.html` page automatically.
 
----
-
-
----
 
 ##  Technologies Used
 
